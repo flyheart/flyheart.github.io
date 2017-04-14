@@ -1,3 +1,3 @@
 # Just do IT
 ---
-[My blog](https://github.com/flyheart/flyheart.github.io.git)
+[My blog](https://flyheart.github.io)
