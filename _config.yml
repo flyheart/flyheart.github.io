@@ -2,7 +2,7 @@ title: Flyheart.GitHub.io
 description: Just do IT
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
